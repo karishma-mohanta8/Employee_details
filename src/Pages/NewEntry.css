@@ -1,0 +1,12 @@
+.newEntryFormCss {
+    width: 50%;
+    margin: auto;
+}
+
+.newEntryFormCss>div>.col-form-label {
+    text-align: end;
+}
+
+.submitBtn {
+    margin: 1rem;
+}

@@ -1,0 +1,7 @@
+.btnDivCss {
+    margin: 20rem;
+}
+
+.btnDivCss>Button {
+    margin: 1rem;
+}
